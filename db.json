@@ -1,0 +1,12 @@
+{
+    "config": [
+        {
+            "file": "/tmp/hello",
+            "source": "http://host.com/path/to/hello"
+        },
+        {
+            "file": "/tmp/foo/bar",
+            "source": "http://host.com/bar/foo"
+        }
+    ]
+}
